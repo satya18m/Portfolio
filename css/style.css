@@ -29,7 +29,7 @@
 }
 /* Banner Area*/
 .site-main .site-banner{
-  background: url(../img/banner/htDKRO.png)no-repeat 0% 50%;
+  background: url(../img/banner/htDKRO.png)  0% 50%;
 }
 .site-main .site-banner .site-title h3{
   padding-top: 35%;
@@ -57,3 +57,20 @@
 
 
 /*End Banner Area*/
+/* Start About Area */
+.site-main .about-area{
+  padding: 8rem 5rem;
+  display: block;
+}
+.about-image{
+  padding: 10rem 0rem 10rem 7rem;
+}
+.site-main .about-area .about-title h2 >span{
+  font:normal bold 30px/40px var(--roboto);
+  letter-spacing: 10px;
+}
+
+.site-main .about-area .about-title .paragraph>p{
+  padding: .4rem 0;
+}
+/*End about Area*/
