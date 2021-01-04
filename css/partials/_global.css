@@ -50,5 +50,8 @@
 }
 p.para{
   color:var(--text-color);
-  font:normal 400 12px/20px var(---roboto); 
+  font:normal 400 12px/20px var(---roboto);
+}
+.font-roboto{
+  font-family: var(--roboto);
 }
